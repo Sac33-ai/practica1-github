@@ -1,4 +1,4 @@
-
+#primer ejercicio github
 nombre=input("tu nombre")
 apellido2_input("introduce tu segundo apellido")
 apellido2_input("introduce tu segundo apellido")
@@ -20,6 +20,7 @@ print(f"la division de {var2} / {var3} es igual a ", division)
 Módulo=var2%var3
 print(f"la Módulo de {var2} % {var3} es igual a ", Módulo)
 Exponente=var2
+
 
 
 
